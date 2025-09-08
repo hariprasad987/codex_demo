@@ -1,0 +1,311 @@
+[
+  {
+    "id": "spaghetti-bolognese",
+    "title": "Spaghetti Bolognese",
+    "description": "Classic Italian pasta with rich meat sauce.",
+    "ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onion",
+      "garlic"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "Saute onions and garlic, add beef and cook until brown.",
+      "Stir in tomato sauce and simmer.",
+      "Serve sauce over spaghetti."
+    ],
+    "imageUrl": "/images/pasta.svg",
+    "cuisine": "Italian",
+    "cookTimeMins": 45,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "margherita-pizza",
+    "title": "Margherita Pizza",
+    "description": "Simple pizza with tomato, mozzarella, and basil.",
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "mozzarella",
+      "basil leaves"
+    ],
+    "instructions": [
+      "Spread sauce over dough.",
+      "Add mozzarella and bake until crust is golden.",
+      "Top with fresh basil."
+    ],
+    "imageUrl": "/images/pizza.svg",
+    "cuisine": "Italian",
+    "cookTimeMins": 30,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "chicken-tikka-masala",
+    "title": "Chicken Tikka Masala",
+    "description": "Creamy spiced tomato chicken curry.",
+    "ingredients": [
+      "chicken",
+      "yogurt",
+      "tomato puree",
+      "garam masala",
+      "cream"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt and spices.",
+      "Grill chicken pieces.",
+      "Simmer sauce with tomato puree and cream.",
+      "Combine chicken with sauce."
+    ],
+    "imageUrl": "/images/curry.svg",
+    "cuisine": "Indian",
+    "cookTimeMins": 50,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "vegetable-stir-fry",
+    "title": "Vegetable Stir Fry",
+    "description": "Quick and healthy mixed vegetable stir fry.",
+    "ingredients": [
+      "broccoli",
+      "carrots",
+      "bell peppers",
+      "soy sauce",
+      "garlic"
+    ],
+    "instructions": [
+      "Heat oil in a wok.",
+      "Add vegetables and stir fry until crisp.",
+      "Add soy sauce and serve."
+    ],
+    "imageUrl": "/images/salad.svg",
+    "cuisine": "Chinese",
+    "cookTimeMins": 20,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "beef-tacos",
+    "title": "Beef Tacos",
+    "description": "Seasoned beef tacos with fresh toppings.",
+    "ingredients": [
+      "taco shells",
+      "ground beef",
+      "taco seasoning",
+      "lettuce",
+      "cheese"
+    ],
+    "instructions": [
+      "Cook beef with seasoning.",
+      "Fill shells with beef and toppings."
+    ],
+    "imageUrl": "/images/pasta.svg",
+    "cuisine": "Mexican",
+    "cookTimeMins": 25,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "sushi-rolls",
+    "title": "Sushi Rolls",
+    "description": "Rice and fillings rolled in seaweed.",
+    "ingredients": [
+      "sushi rice",
+      "nori sheets",
+      "cucumber",
+      "avocado",
+      "fish or crab"
+    ],
+    "instructions": [
+      "Spread rice on nori, add fillings, and roll.",
+      "Slice into pieces."
+    ],
+    "imageUrl": "/images/salad.svg",
+    "cuisine": "Japanese",
+    "cookTimeMins": 40,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "greek-salad",
+    "title": "Greek Salad",
+    "description": "Fresh salad with feta and olives.",
+    "ingredients": [
+      "tomatoes",
+      "cucumber",
+      "feta cheese",
+      "olives",
+      "olive oil"
+    ],
+    "instructions": [
+      "Chop vegetables.",
+      "Toss with feta, olives, and dressing."
+    ],
+    "imageUrl": "/images/salad.svg",
+    "cuisine": "Greek",
+    "cookTimeMins": 15,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "pad-thai",
+    "title": "Pad Thai",
+    "description": "Thai stir-fried noodles with shrimp and peanuts.",
+    "ingredients": [
+      "rice noodles",
+      "shrimp",
+      "bean sprouts",
+      "peanuts",
+      "tamari sauce"
+    ],
+    "instructions": [
+      "Soak noodles and stir fry with ingredients.",
+      "Add sauce and serve with peanuts."
+    ],
+    "imageUrl": "/images/pasta.svg",
+    "cuisine": "Thai",
+    "cookTimeMins": 35,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "french-onion-soup",
+    "title": "French Onion Soup",
+    "description": "Rich beef broth with caramelized onions and cheese.",
+    "ingredients": [
+      "onions",
+      "beef broth",
+      "baguette",
+      "gruyere cheese",
+      "butter"
+    ],
+    "instructions": [
+      "Caramelize onions in butter.",
+      "Add broth and simmer.",
+      "Top with bread and cheese, then broil."
+    ],
+    "imageUrl": "/images/soup.svg",
+    "cuisine": "French",
+    "cookTimeMins": 60,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "shakshuka",
+    "title": "Shakshuka",
+    "description": "Eggs poached in spiced tomato sauce.",
+    "ingredients": [
+      "eggs",
+      "tomatoes",
+      "onion",
+      "bell pepper",
+      "cumin"
+    ],
+    "instructions": [
+      "Cook vegetables with spices.",
+      "Add tomatoes and simmer.",
+      "Poach eggs in sauce."
+    ],
+    "imageUrl": "/images/curry.svg",
+    "cuisine": "Middle Eastern",
+    "cookTimeMins": 30,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "fish-and-chips",
+    "title": "Fish and Chips",
+    "description": "Battered fried fish with fries.",
+    "ingredients": [
+      "white fish",
+      "potatoes",
+      "flour",
+      "beer",
+      "oil"
+    ],
+    "instructions": [
+      "Batter and fry fish.",
+      "Fry potatoes until crisp."
+    ],
+    "imageUrl": "/images/soup.svg",
+    "cuisine": "British",
+    "cookTimeMins": 45,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "apple-pie",
+    "title": "Apple Pie",
+    "description": "Classic dessert with spiced apples.",
+    "ingredients": [
+      "pie crust",
+      "apples",
+      "sugar",
+      "cinnamon"
+    ],
+    "instructions": [
+      "Fill crust with apples and spices.",
+      "Bake until golden."
+    ],
+    "imageUrl": "/images/dessert.svg",
+    "cuisine": "American",
+    "cookTimeMins": 70,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "falafel-wrap",
+    "title": "Falafel Wrap",
+    "description": "Crispy falafel balls wrapped in pita.",
+    "ingredients": [
+      "chickpeas",
+      "herbs",
+      "spices",
+      "pita bread",
+      "tahini sauce"
+    ],
+    "instructions": [
+      "Blend chickpeas with herbs and spices.",
+      "Form balls and fry.",
+      "Serve in pita with sauce."
+    ],
+    "imageUrl": "/images/pita.svg",
+    "cuisine": "Middle Eastern",
+    "cookTimeMins": 40,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "butter-chicken",
+    "title": "Butter Chicken",
+    "description": "Rich and creamy Indian chicken curry.",
+    "ingredients": [
+      "chicken",
+      "butter",
+      "tomato",
+      "cream",
+      "spices"
+    ],
+    "instructions": [
+      "Cook chicken with spices.",
+      "Add tomato and butter, simmer.",
+      "Finish with cream."
+    ],
+    "imageUrl": "/images/curry.svg",
+    "cuisine": "Indian",
+    "cookTimeMins": 55,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "chocolate-cake",
+    "title": "Chocolate Cake",
+    "description": "Moist chocolate cake with frosting.",
+    "ingredients": [
+      "flour",
+      "cocoa powder",
+      "sugar",
+      "eggs",
+      "butter"
+    ],
+    "instructions": [
+      "Mix dry and wet ingredients separately.",
+      "Combine and bake.",
+      "Frost when cooled."
+    ],
+    "imageUrl": "/images/dessert.svg",
+    "cuisine": "American",
+    "cookTimeMins": 50,
+    "difficulty": "Medium"
+  }
+]
