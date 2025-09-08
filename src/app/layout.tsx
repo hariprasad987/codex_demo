@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
 import "./globals.css";
+import { Providers } from "./providers";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -25,22 +26,22 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        <header className="border-b">
-          <nav className="mx-auto flex max-w-5xl items-center justify-between p-4">
-            <Link href="/" className="font-bold">
-              Recipe Finder
-            </Link>
-            <div className="flex gap-4 text-sm">
-              <Link href="/recipes">Recipes</Link>
-              <Link href="/search">Search</Link>
-              <Link href="/favorites">Favorites</Link>
-            </div>
-          </nav>
-        </header>
-        <main className="mx-auto max-w-5xl p-4">{children}</main>
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        <Providers>
+          <header className="border-b">
+            <nav className="mx-auto flex max-w-5xl items-center justify-between p-4">
+              <Link href="/" className="font-bold">
+                Recipe Finder
+              </Link>
+              <div className="flex gap-4 text-sm">
+                <Link href="/recipes">Recipes</Link>
+                <Link href="/search">Search</Link>
+                <Link href="/favorites">Favorites</Link>
+              </div>
+            </nav>
+          </header>
+          <main className="mx-auto max-w-5xl p-4">{children}</main>
+        </Providers>
       </body>
     </html>
   );

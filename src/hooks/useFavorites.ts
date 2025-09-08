@@ -1,9 +1,25 @@
 "use client";
-import { useState, useEffect } from "react";
+import {
+  createContext,
+  useContext,
+  useState,
+  useEffect,
+  ReactNode,
+} from "react";
 
 const STORAGE_KEY = "favoriteRecipes";
 
-export function useFavorites() {
+type FavoritesContextValue = {
+  favorites: string[];
+  toggleFavorite: (id: string) => void;
+  isFavorite: (id: string) => boolean;
+};
+
+const FavoritesContext = createContext<FavoritesContextValue | undefined>(
+  undefined
+);
+
+export function FavoritesProvider({ children }: { children: ReactNode }) {
   const [favorites, setFavorites] = useState<string[]>([]);
 
   useEffect(() => {
@@ -25,5 +41,19 @@ export function useFavorites() {
 
   const isFavorite = (id: string) => favorites.includes(id);
 
-  return { favorites, toggleFavorite, isFavorite };
+  return (
+    <FavoritesContext.Provider
+      value={{ favorites, toggleFavorite, isFavorite }}
+    >
+      {children}
+    </FavoritesContext.Provider>
+  );
+}
+
+export function useFavorites() {
+  const ctx = useContext(FavoritesContext);
+  if (!ctx) {
+    throw new Error("useFavorites must be used within FavoritesProvider");
+  }
+  return ctx;
 }
