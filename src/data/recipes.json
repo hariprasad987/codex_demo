@@ -1,0 +1,227 @@
+[
+  {
+    "id": "spaghetti-bolognese",
+    "title": "Spaghetti Bolognese",
+    "description": "Classic Italian pasta with rich meat sauce.",
+    "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic"],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "Brown beef with onion and garlic.",
+      "Combine with tomato sauce and simmer."
+    ],
+    "imageUrl": "/images/dish1.svg",
+    "cuisine": "Italian",
+    "cookTimeMins": 45,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "margherita-pizza",
+    "title": "Margherita Pizza",
+    "description": "Simple pizza topped with tomatoes, mozzarella, and basil.",
+    "ingredients": ["pizza dough", "tomato sauce", "mozzarella", "basil"],
+    "instructions": [
+      "Spread sauce on dough.",
+      "Top with mozzarella and basil.",
+      "Bake until crust is golden."
+    ],
+    "imageUrl": "/images/dish2.svg",
+    "cuisine": "Italian",
+    "cookTimeMins": 30,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "mushroom-risotto",
+    "title": "Mushroom Risotto",
+    "description": "Creamy risotto with mushrooms and parmesan.",
+    "ingredients": ["arborio rice", "mushrooms", "vegetable broth", "parmesan", "onion"],
+    "instructions": [
+      "Sauté onions and mushrooms.",
+      "Add rice and broth gradually.",
+      "Stir in parmesan to finish."
+    ],
+    "imageUrl": "/images/dish3.svg",
+    "cuisine": "Italian",
+    "cookTimeMins": 40,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "chicken-curry",
+    "title": "Chicken Curry",
+    "description": "Spiced Indian chicken curry with tomato gravy.",
+    "ingredients": ["chicken", "tomato", "onion", "curry powder", "yogurt"],
+    "instructions": [
+      "Sauté onions and spices.",
+      "Add chicken and cook through.",
+      "Stir in tomatoes and yogurt and simmer."
+    ],
+    "imageUrl": "/images/dish4.svg",
+    "cuisine": "Indian",
+    "cookTimeMins": 50,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "vegetable-biryani",
+    "title": "Vegetable Biryani",
+    "description": "Fragrant rice dish with mixed vegetables.",
+    "ingredients": ["basmati rice", "mixed vegetables", "spices", "onion", "saffron"],
+    "instructions": [
+      "Cook vegetables with spices.",
+      "Layer with par-cooked rice.",
+      "Steam until rice is fluffy."
+    ],
+    "imageUrl": "/images/dish5.svg",
+    "cuisine": "Indian",
+    "cookTimeMins": 60,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "paneer-tikka",
+    "title": "Paneer Tikka",
+    "description": "Grilled paneer cubes marinated in spices.",
+    "ingredients": ["paneer", "yogurt", "spices", "bell pepper", "onion"],
+    "instructions": [
+      "Marinate paneer and vegetables.",
+      "Skewer and grill until charred.",
+      "Serve hot with chutney."
+    ],
+    "imageUrl": "/images/dish1.svg",
+    "cuisine": "Indian",
+    "cookTimeMins": 35,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "beef-tacos",
+    "title": "Beef Tacos",
+    "description": "Mexican tacos with seasoned beef and toppings.",
+    "ingredients": ["taco shells", "ground beef", "lettuce", "cheddar", "salsa"],
+    "instructions": [
+      "Cook beef with spices.",
+      "Fill shells with beef.",
+      "Top with lettuce, cheese, and salsa."
+    ],
+    "imageUrl": "/images/dish2.svg",
+    "cuisine": "Mexican",
+    "cookTimeMins": 25,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "guacamole",
+    "title": "Guacamole",
+    "description": "Creamy avocado dip with lime and cilantro.",
+    "ingredients": ["avocado", "lime", "cilantro", "onion", "salt"],
+    "instructions": [
+      "Mash avocados.",
+      "Mix in lime, cilantro, and onion.",
+      "Season with salt."
+    ],
+    "imageUrl": "/images/dish3.svg",
+    "cuisine": "Mexican",
+    "cookTimeMins": 10,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "chicken-enchiladas",
+    "title": "Chicken Enchiladas",
+    "description": "Rolled tortillas stuffed with chicken and cheese.",
+    "ingredients": ["tortillas", "chicken", "enchilada sauce", "cheese"],
+    "instructions": [
+      "Fill tortillas with chicken and cheese.",
+      "Roll and place in baking dish.",
+      "Cover with sauce and bake."
+    ],
+    "imageUrl": "/images/dish4.svg",
+    "cuisine": "Mexican",
+    "cookTimeMins": 35,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "fried-rice",
+    "title": "Fried Rice",
+    "description": "Chinese-style fried rice with vegetables and egg.",
+    "ingredients": ["rice", "egg", "carrot", "peas", "soy sauce"],
+    "instructions": [
+      "Scramble eggs and set aside.",
+      "Stir-fry vegetables and rice.",
+      "Add soy sauce and eggs."
+    ],
+    "imageUrl": "/images/dish5.svg",
+    "cuisine": "Chinese",
+    "cookTimeMins": 20,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "pork-dumplings",
+    "title": "Pork Dumplings",
+    "description": "Steamed dumplings filled with pork and cabbage.",
+    "ingredients": ["dumpling wrappers", "pork", "cabbage", "ginger", "soy sauce"],
+    "instructions": [
+      "Mix filling ingredients.",
+      "Wrap in dumpling wrappers.",
+      "Steam until cooked through."
+    ],
+    "imageUrl": "/images/dish1.svg",
+    "cuisine": "Chinese",
+    "cookTimeMins": 45,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sweet-sour-chicken",
+    "title": "Sweet and Sour Chicken",
+    "description": "Crispy chicken tossed in tangy sweet and sour sauce.",
+    "ingredients": ["chicken", "bell pepper", "pineapple", "vinegar", "sugar"],
+    "instructions": [
+      "Fry battered chicken pieces.",
+      "Cook vegetables and pineapple.",
+      "Toss with sauce and chicken."
+    ],
+    "imageUrl": "/images/dish2.svg",
+    "cuisine": "Chinese",
+    "cookTimeMins": 40,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "cheeseburger",
+    "title": "Cheeseburger",
+    "description": "Juicy grilled burger with cheese and toppings.",
+    "ingredients": ["ground beef", "bun", "cheddar", "lettuce", "tomato"],
+    "instructions": [
+      "Form and grill patties.",
+      "Top with cheese.",
+      "Assemble with bun and toppings."
+    ],
+    "imageUrl": "/images/dish3.svg",
+    "cuisine": "American",
+    "cookTimeMins": 15,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "pancakes",
+    "title": "Pancakes",
+    "description": "Fluffy American pancakes with syrup.",
+    "ingredients": ["flour", "milk", "egg", "baking powder", "sugar"],
+    "instructions": [
+      "Mix dry and wet ingredients.",
+      "Pour batter on griddle.",
+      "Flip when bubbles form."
+    ],
+    "imageUrl": "/images/dish4.svg",
+    "cuisine": "American",
+    "cookTimeMins": 20,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "bbq-ribs",
+    "title": "BBQ Ribs",
+    "description": "Slow-cooked ribs with smoky barbecue sauce.",
+    "ingredients": ["pork ribs", "bbq sauce", "brown sugar", "spices"],
+    "instructions": [
+      "Season and bake ribs slowly.",
+      "Brush with sauce.",
+      "Grill to finish."
+    ],
+    "imageUrl": "/images/dish5.svg",
+    "cuisine": "American",
+    "cookTimeMins": 120,
+    "difficulty": "Hard"
+  }
+]
