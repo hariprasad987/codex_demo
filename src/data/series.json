@@ -1,0 +1,337 @@
+[
+  {
+    "id": "s1",
+    "title": "Sample Series 1",
+    "yearStart": 2011,
+    "genres": [
+      "drama",
+      "action"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 8,
+    "description": "Description for sample series 1.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "s1s1e1",
+            "episodeNumber": 1,
+            "title": "Episode 1",
+            "runtimeMins": 45,
+            "description": "Description for episode 1.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          },
+          {
+            "id": "s1s1e2",
+            "episodeNumber": 2,
+            "title": "Episode 2",
+            "runtimeMins": 45,
+            "description": "Description for episode 2.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "episodes": [
+          {
+            "id": "s1s2e1",
+            "episodeNumber": 1,
+            "title": "Episode 1",
+            "runtimeMins": 45,
+            "description": "Description for episode 1.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          },
+          {
+            "id": "s1s2e2",
+            "episodeNumber": 2,
+            "title": "Episode 2",
+            "runtimeMins": 45,
+            "description": "Description for episode 2.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          }
+        ]
+      }
+    ],
+    "featured": true,
+    "trendingScore": 99
+  },
+  {
+    "id": "s2",
+    "title": "Sample Series 2",
+    "yearStart": 2012,
+    "genres": [
+      "drama",
+      "comedy"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 9,
+    "description": "Description for sample series 2.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "s2s1e1",
+            "episodeNumber": 1,
+            "title": "Episode 1",
+            "runtimeMins": 45,
+            "description": "Description for episode 1.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          },
+          {
+            "id": "s2s1e2",
+            "episodeNumber": 2,
+            "title": "Episode 2",
+            "runtimeMins": 45,
+            "description": "Description for episode 2.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "episodes": [
+          {
+            "id": "s2s2e1",
+            "episodeNumber": 1,
+            "title": "Episode 1",
+            "runtimeMins": 45,
+            "description": "Description for episode 1.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          },
+          {
+            "id": "s2s2e2",
+            "episodeNumber": 2,
+            "title": "Episode 2",
+            "runtimeMins": 45,
+            "description": "Description for episode 2.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          }
+        ]
+      }
+    ],
+    "featured": false,
+    "trendingScore": 98
+  },
+  {
+    "id": "s3",
+    "title": "Sample Series 3",
+    "yearStart": 2013,
+    "genres": [
+      "drama",
+      "action"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 7,
+    "description": "Description for sample series 3.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "s3s1e1",
+            "episodeNumber": 1,
+            "title": "Episode 1",
+            "runtimeMins": 45,
+            "description": "Description for episode 1.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          },
+          {
+            "id": "s3s1e2",
+            "episodeNumber": 2,
+            "title": "Episode 2",
+            "runtimeMins": 45,
+            "description": "Description for episode 2.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "episodes": [
+          {
+            "id": "s3s2e1",
+            "episodeNumber": 1,
+            "title": "Episode 1",
+            "runtimeMins": 45,
+            "description": "Description for episode 1.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          },
+          {
+            "id": "s3s2e2",
+            "episodeNumber": 2,
+            "title": "Episode 2",
+            "runtimeMins": 45,
+            "description": "Description for episode 2.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          }
+        ]
+      }
+    ],
+    "featured": false,
+    "trendingScore": 97
+  },
+  {
+    "id": "s4",
+    "title": "Sample Series 4",
+    "yearStart": 2014,
+    "genres": [
+      "drama",
+      "comedy"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 8,
+    "description": "Description for sample series 4.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "s4s1e1",
+            "episodeNumber": 1,
+            "title": "Episode 1",
+            "runtimeMins": 45,
+            "description": "Description for episode 1.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          },
+          {
+            "id": "s4s1e2",
+            "episodeNumber": 2,
+            "title": "Episode 2",
+            "runtimeMins": 45,
+            "description": "Description for episode 2.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "episodes": [
+          {
+            "id": "s4s2e1",
+            "episodeNumber": 1,
+            "title": "Episode 1",
+            "runtimeMins": 45,
+            "description": "Description for episode 1.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          },
+          {
+            "id": "s4s2e2",
+            "episodeNumber": 2,
+            "title": "Episode 2",
+            "runtimeMins": 45,
+            "description": "Description for episode 2.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          }
+        ]
+      }
+    ],
+    "featured": false,
+    "trendingScore": 96
+  },
+  {
+    "id": "s5",
+    "title": "Sample Series 5",
+    "yearStart": 2015,
+    "genres": [
+      "drama",
+      "action"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 9,
+    "description": "Description for sample series 5.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "id": "s5s1e1",
+            "episodeNumber": 1,
+            "title": "Episode 1",
+            "runtimeMins": 45,
+            "description": "Description for episode 1.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          },
+          {
+            "id": "s5s1e2",
+            "episodeNumber": 2,
+            "title": "Episode 2",
+            "runtimeMins": 45,
+            "description": "Description for episode 2.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "episodes": [
+          {
+            "id": "s5s2e1",
+            "episodeNumber": 1,
+            "title": "Episode 1",
+            "runtimeMins": 45,
+            "description": "Description for episode 1.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          },
+          {
+            "id": "s5s2e2",
+            "episodeNumber": 2,
+            "title": "Episode 2",
+            "runtimeMins": 45,
+            "description": "Description for episode 2.",
+            "videoUrl": "/videos/sample.mp4",
+            "trailerUrl": "/videos/trailer.mp4"
+          }
+        ]
+      }
+    ],
+    "featured": false,
+    "trendingScore": 95
+  }
+]

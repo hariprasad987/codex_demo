@@ -1,0 +1,442 @@
+[
+  {
+    "id": "m1",
+    "title": "Sample Movie 1",
+    "year": 2001,
+    "runtimeMins": 91,
+    "genres": [
+      "action",
+      "drama"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 7,
+    "description": "Description for sample movie 1.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": true,
+    "trendingScore": 99
+  },
+  {
+    "id": "m2",
+    "title": "Sample Movie 2",
+    "year": 2002,
+    "runtimeMins": 92,
+    "genres": [
+      "action",
+      "comedy"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 8,
+    "description": "Description for sample movie 2.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 98
+  },
+  {
+    "id": "m3",
+    "title": "Sample Movie 3",
+    "year": 2003,
+    "runtimeMins": 93,
+    "genres": [
+      "action",
+      "drama"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 9,
+    "description": "Description for sample movie 3.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 97
+  },
+  {
+    "id": "m4",
+    "title": "Sample Movie 4",
+    "year": 2004,
+    "runtimeMins": 94,
+    "genres": [
+      "action",
+      "comedy"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 10,
+    "description": "Description for sample movie 4.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 96
+  },
+  {
+    "id": "m5",
+    "title": "Sample Movie 5",
+    "year": 2005,
+    "runtimeMins": 95,
+    "genres": [
+      "action",
+      "drama"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 6,
+    "description": "Description for sample movie 5.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 95
+  },
+  {
+    "id": "m6",
+    "title": "Sample Movie 6",
+    "year": 2006,
+    "runtimeMins": 96,
+    "genres": [
+      "action",
+      "comedy"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 7,
+    "description": "Description for sample movie 6.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 94
+  },
+  {
+    "id": "m7",
+    "title": "Sample Movie 7",
+    "year": 2007,
+    "runtimeMins": 97,
+    "genres": [
+      "action",
+      "drama"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 8,
+    "description": "Description for sample movie 7.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 93
+  },
+  {
+    "id": "m8",
+    "title": "Sample Movie 8",
+    "year": 2008,
+    "runtimeMins": 98,
+    "genres": [
+      "action",
+      "comedy"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 9,
+    "description": "Description for sample movie 8.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 92
+  },
+  {
+    "id": "m9",
+    "title": "Sample Movie 9",
+    "year": 2009,
+    "runtimeMins": 99,
+    "genres": [
+      "action",
+      "drama"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 10,
+    "description": "Description for sample movie 9.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 91
+  },
+  {
+    "id": "m10",
+    "title": "Sample Movie 10",
+    "year": 2010,
+    "runtimeMins": 100,
+    "genres": [
+      "action",
+      "comedy"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 6,
+    "description": "Description for sample movie 10.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 90
+  },
+  {
+    "id": "m11",
+    "title": "Sample Movie 11",
+    "year": 2011,
+    "runtimeMins": 101,
+    "genres": [
+      "action",
+      "drama"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 7,
+    "description": "Description for sample movie 11.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 89
+  },
+  {
+    "id": "m12",
+    "title": "Sample Movie 12",
+    "year": 2012,
+    "runtimeMins": 102,
+    "genres": [
+      "action",
+      "comedy"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 8,
+    "description": "Description for sample movie 12.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 88
+  },
+  {
+    "id": "m13",
+    "title": "Sample Movie 13",
+    "year": 2013,
+    "runtimeMins": 103,
+    "genres": [
+      "action",
+      "drama"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 9,
+    "description": "Description for sample movie 13.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 87
+  },
+  {
+    "id": "m14",
+    "title": "Sample Movie 14",
+    "year": 2014,
+    "runtimeMins": 104,
+    "genres": [
+      "action",
+      "comedy"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 10,
+    "description": "Description for sample movie 14.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 86
+  },
+  {
+    "id": "m15",
+    "title": "Sample Movie 15",
+    "year": 2015,
+    "runtimeMins": 105,
+    "genres": [
+      "action",
+      "drama"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 6,
+    "description": "Description for sample movie 15.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 85
+  },
+  {
+    "id": "m16",
+    "title": "Sample Movie 16",
+    "year": 2016,
+    "runtimeMins": 106,
+    "genres": [
+      "action",
+      "comedy"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 7,
+    "description": "Description for sample movie 16.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 84
+  },
+  {
+    "id": "m17",
+    "title": "Sample Movie 17",
+    "year": 2017,
+    "runtimeMins": 107,
+    "genres": [
+      "action",
+      "drama"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 8,
+    "description": "Description for sample movie 17.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 83
+  },
+  {
+    "id": "m18",
+    "title": "Sample Movie 18",
+    "year": 2018,
+    "runtimeMins": 108,
+    "genres": [
+      "action",
+      "comedy"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 9,
+    "description": "Description for sample movie 18.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 82
+  },
+  {
+    "id": "m19",
+    "title": "Sample Movie 19",
+    "year": 2019,
+    "runtimeMins": 109,
+    "genres": [
+      "action",
+      "drama"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 10,
+    "description": "Description for sample movie 19.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 81
+  },
+  {
+    "id": "m20",
+    "title": "Sample Movie 20",
+    "year": 2020,
+    "runtimeMins": 110,
+    "genres": [
+      "action",
+      "comedy"
+    ],
+    "posterUrl": "/images/poster-placeholder.jpg",
+    "backdropUrl": "/images/backdrop-placeholder.jpg",
+    "rating": 6,
+    "description": "Description for sample movie 20.",
+    "cast": [
+      "p1",
+      "p2"
+    ],
+    "trailerUrl": "/videos/trailer.mp4",
+    "videoUrl": "/videos/sample.mp4",
+    "featured": false,
+    "trendingScore": 80
+  }
+]
